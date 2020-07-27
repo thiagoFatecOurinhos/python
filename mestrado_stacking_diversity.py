@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-print("******* Importando variaveis --->", time.asctime())
 
 # Verificação de tempo dos processos
 import time
+print("******* Importando variaveis --->", time.asctime())
 
 # Pandas
 import pandas as pd 
